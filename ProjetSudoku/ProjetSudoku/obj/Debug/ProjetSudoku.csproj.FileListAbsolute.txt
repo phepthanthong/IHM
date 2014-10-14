@@ -1,0 +1,9 @@
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\bin\Debug\ProjetSudoku.exe.config
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\bin\Debug\ProjetSudoku.exe
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\bin\Debug\ProjetSudoku.pdb
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\obj\Debug\ProjetSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\obj\Debug\ProjetSudoku.Sudoku.resources
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\obj\Debug\ProjetSudoku.Properties.Resources.resources
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\obj\Debug\ProjetSudoku.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\obj\Debug\ProjetSudoku.exe
+C:\Users\Hieu\Desktop\ProjetSudoku\ProjetSudoku\obj\Debug\ProjetSudoku.pdb

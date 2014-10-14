@@ -1,0 +1,10 @@
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.exe.config
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.exe
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.pdb
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.GiaoVien.resources
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.Properties.Resources.resources
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.exe
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.pdb
+C:\Users\Hieu\Desktop\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.FormThongtin.resources

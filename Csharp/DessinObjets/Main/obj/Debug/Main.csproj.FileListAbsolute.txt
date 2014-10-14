@@ -1,0 +1,11 @@
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\bin\Debug\Main.exe.config
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\bin\Debug\Main.exe
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\bin\Debug\Main.pdb
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\obj\Debug\Main.exe
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\obj\Debug\Main.pdb
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\bin\Debug\DessinObjets.dll
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\bin\Debug\DessinObjets.pdb
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\Main\obj\Debug\Main.Form1.resources

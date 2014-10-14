@@ -1,0 +1,11 @@
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\bin\Debug\DessinObjets.pdb
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.Properties.Resources.resources
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.pdb
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.DessinObjets.resources
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.Parametres.resources
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.BoiteDialogGenerique.resources
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\bin\Debug\DessinObjets.dll.config
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\bin\Debug\DessinObjets.dll
+C:\Users\Hieu\Desktop\Csharp\DessinObjets\DessinObjets\obj\Debug\DessinObjets.dll

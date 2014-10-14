@@ -1,0 +1,14 @@
+class Noeud
+	=> list <Noeud>
+class Trait
+	=> list <Trait>
+création d'un trait
+	MouseDown (2 cas)
+	MouseDown
+	MouseUp
+
+* MouseDown
+	1 cas: MouseDown sur une zone vide
+		=> création d'un noeud
+	2 cas: MouseDown sur une zone comportant un noeud
+		=> création d'un noeud

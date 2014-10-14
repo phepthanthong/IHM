@@ -1,0 +1,9 @@
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\bin\Debug\ProjetDamier.exe.config
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\bin\Debug\ProjetDamier.exe
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\bin\Debug\ProjetDamier.pdb
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\obj\Debug\ProjetDamier.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\obj\Debug\ProjetDamier.FenetreDamier.resources
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\obj\Debug\ProjetDamier.Properties.Resources.resources
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\obj\Debug\ProjetDamier.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\obj\Debug\ProjetDamier.exe
+C:\Users\Hieu\Desktop\ProjetDamier\ProjetDamier\obj\Debug\ProjetDamier.pdb
